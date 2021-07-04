@@ -1,2 +1,3 @@
-The original Minesweeper code from 2019
+#Minesweeper
+
 Ilie Dumitru
